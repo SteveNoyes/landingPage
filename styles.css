@@ -1,5 +1,5 @@
-body {
-
+p {
+  font-size: 20px!important;
 }
 
 .invertLogo {
@@ -34,6 +34,10 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+}
+
+.pushDown {
+  padding-top: 1rem;
 }
 
 .st-txt {
